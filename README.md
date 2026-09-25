@@ -1,2 +1,4 @@
-# Cardify
-Repository Aplikasi Cardify dengan Dart
+# cardify
+
+Muhamad Rezky Rahmawan
+Muhammad Faris
